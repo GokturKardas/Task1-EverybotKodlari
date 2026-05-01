@@ -10,4 +10,4 @@ Everybotun bileşenleri:
 -Shooter
 -Climber
 
-Kod NEO motora göre güncellenmiştir.
+Kod NEO motora göre güncellenmiştir(drivetrain).
