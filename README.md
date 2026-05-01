@@ -9,3 +9,5 @@ Everybotun bileşenleri:
 -Intake
 -Shooter
 -Climber
+
+Kod NEO motora göre güncellenmiştir.
